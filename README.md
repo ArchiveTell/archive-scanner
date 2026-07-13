@@ -1,5 +1,10 @@
 # 🚀 Archive Scanner
 
+
+<img width="595" height="1280" alt="image" src="https://github.com/user-attachments/assets/2c42700a-8b97-4486-92f6-f20d41744dca" />
+<img width="597" height="1280" alt="image" src="https://github.com/user-attachments/assets/67b7b43c-6356-4f89-b373-b035886f2c58" />
+
+
 ## 🇬🇧 English
 
 Archive Scanner is a powerful, open-source Android network utility designed to scan for clean Cloudflare Edge IPs and seamlessly generate proxy configurations. Built with performance and user experience in mind, it eliminates the hassle of manual address swapping and streamlines your network bypass setup.
