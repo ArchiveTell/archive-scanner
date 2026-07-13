@@ -12,8 +12,8 @@ Archive Scanner is a powerful, open-source Android network utility designed to s
 * 🛡️ **Privacy First:** Fully open-source and developed by Bachelor⚡️. All scans and generations happen locally on your device.
 
 ---
-
-‏## 🇮🇷 فارسی (Persian)
+‏
+## 🇮🇷 فارسی (Persian)
 
 آرشیو اسکنر یک ابزار قدرتمند و متن‌باز اندرویدی است که برای اسکن و پیدا کردن IPهای تمیز لبه (Edge) کلودفلر و ساخت خودکار کانفیگ طراحی شده است. این برنامه با تمرکز بر کارایی، شما را از جایگذاری دستی آدرس‌ها بی‌نیاز کرده و مدیریت کانفیگ‌های شبکه‌ی شما را بسیار ساده می‌کند.
 
